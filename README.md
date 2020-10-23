@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<h1 align="center">
+    <img alt="Covid Image" title="covidImage" src=".github/imgSite.png" width="220px" />
+</h1>
 ## Available Scripts
 
 In the project directory, you can run:
