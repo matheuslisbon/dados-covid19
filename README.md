@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <h1 align="center">
-    <img alt="Covid Image" title="covidImage" src=".github/imgSite.png" width="220px" />
+    <img alt="Covid Image" title="covidImage" src=".github/imgSite.PNG" width="220px" />
 </h1>
 ## Available Scripts
 
