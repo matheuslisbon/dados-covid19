@@ -4,7 +4,7 @@ import {BsHeartFill} from 'react-icons/bs'
 export default function Footer (){
   return (
     <FooterDiv>
-      Feito com carinho por Matheus Edurdo 
+      Feito com carinho por Matheus Eduardo 
       <BsHeartFill size={18} />
     </FooterDiv>
   )
